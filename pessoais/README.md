@@ -5,11 +5,11 @@ Este projeto em Python permite ao usuário digitar um número e verifica se ele 
 
 ## Como usar
 1. Copie o conteúdo do arquivo `verifica_primo.py`.
-2. Cole em um ambiente Python (como Replit, VS Code ou terminal com Python instalado).
+2. Cole em um ambiente Python.
 3. Rode o código e digite um número quando solicitado.
 
 ## Tecnologias usadas
-- Python 3
+- Python 
 
 ## Autor
 Lucas Prianti
