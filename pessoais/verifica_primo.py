@@ -9,5 +9,3 @@ def numero_suspeito():
             return
     print('o numero é primo')
     return
-
-numero_suspeito()
